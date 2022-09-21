@@ -1,0 +1,367 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Turp",
+            "situation": "Sebze",
+            "description": "Turp, turpgiller familyasından sebze olarak tüketilen bir bitki türü. Meyvesi etli ve genelde beyaz renktir. Kara turp, beyaz turp, kırmızı turp gibi çeşitleri vardır. Kırmızı turp ağız kokutmasıyla ünlüdür. ",
+            "depo": 20,
+            "img": "https://images.pexels.com/photos/191043/pexels-photo-191043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 25,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Havuç",
+            "situation": "Sebze",
+            "description": "Havuç, maydanozgiller familyasından, koni biçimindeki etli kökü için sebze olarak yetiştirilen iki yıllık otsu bir kültür bitkisi.",
+            "depo": 25,
+            "img": "https://images.pexels.com/photos/4992944/pexels-photo-4992944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 16,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Peynir",
+            "situation": "Süt Ürünleri",
+            "description": "Peynir, çok büyük bir çeşitlilikteki aroma, tat, yapı ve şekle sahip bir grup süt ürünü için kullanılan genel isimdir.",
+            "depo": 51,
+            "img": "https://images.pexels.com/photos/773253/pexels-photo-773253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 48,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Yoğurt",
+            "situation": "Süt Ürünleri",
+            "description":"Yoğurt, besin değeri yüksek, laktik asit fermantasyonu sonucunda elde edilen ve canlı laktik asit bakterileri içeren fermente bir süt ürünüdür. Lactobacillus bulgaricus ve streptococcus thermophilus sütten yoğurt yapmak için kullanılan birkaç bakteri türünden biridir.",
+            "depo": 117,
+            "img": "https://images.pexels.com/photos/5620415/pexels-photo-5620415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 27,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Ananas",
+            "situation": "Meyve",
+            "description": "Ananas, ananasgiller familyasından, sıcak ülkelerde yetişen bir bitki ve onun meyvesidir. Anayurdu Güney Amerika'dır. Meyvesi iri, güzel kokulu ve lezzetlidir; üstünde bir demet yaprak vardır. ",
+            "depo": 22,
+            "img": "https://images.pexels.com/photos/12620074/pexels-photo-12620074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 22,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Reçel",
+            "situation": "Kahvaltılık",
+            "description": "Reçel, meyvelerin çeşitli şekillerde şekerle kaynatılması ile yapılan bir tür tatlı ve meyve konservesi türüdür. Kahvaltıda tüketilmesi tercih edilmekle beraber günün her saati yenilir ve bazı kek, pasta ve çöreklerin üzerine sürülerek onları tatlandırmada da kullanılır.",
+            "depo": 118,
+            "img": "https://images.pexels.com/photos/1051849/pexels-photo-1051849.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 35,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bal",
+            "situation": "Kahvaltılık",
+            "description": "Bal, arılar tarafından çiçeklerden ve meyve tomurcuklarından alınarak yutulan nektarın arıların bal midesi denilen organlarında invertaz enzimi sayesinde kimyasal değişime uğramasıyla oluşan ve kovandaki petek hücrelerine yerleştirilen çok faydalı bir besindir.",
+            "depo":14 ,
+            "img": "https://images.pexels.com/photos/33260/honey-sweet-syrup-organic.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 55,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Üzüm",
+            "situation": "Meyve",
+            "description": "Üzüm, yaprak döken odunsu asmaların vitis cinsinden çiçekli bitki meyvesinin adıdır. Üzüm dünyada kültürü yapılan en eski meyve türlerinden biridir. Üzümler sofralık üzüm olarak taze yenebilir veya şarap, reçel, üzüm suyu, jöle, üzüm çekirdeği özü, kuru üzümler, sirke ve üzüm çekirdeği yağı yapımında kullanılabilir.",
+            "depo": 60,
+            "img": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 13,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Et",
+            "situation": "Et & Tavuk",
+            "description": "Kırmızı et, beyaz et'in aksine protein miyoglobinin varlığı nedeniyle kırmızı bir renk tonuna sahip olan memeli ve kuşların etidir. Dana eti bölümleri ve domuz eti bölümleri buraya dahildir. Kırmızı et, demir, çinko ve fosfor, kreatin ve vitaminler bakımından yüksektir.",
+            "depo":35 ,
+            "img": "https://images.pexels.com/photos/65175/pexels-photo-65175.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 180,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Tavuk Eti",
+            "situation": "Et & Tavuk",
+            "description": "Tavuk eti, evcilleştirilmiş tavuktan elde edilen bir beyaz et çeşi olup günümüzde en fazla yenen et türlerinden birisidir. Tavuk eti ızgara, yahni, yağda veya fırında kızartma yoluyla hazırlanır.",
+            "depo": 51,
+            "img": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 80,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Salatalık",
+            "situation": "Sebze",
+            "description": "Hıyar veya salatalık, kabakgiller familyasından bir bitki türü ve meyvesine verilen ad. Anayurdunun Kuzey Hindistan olduğu sanılan bitkinin tarımı çok eski dönemlerden beri yaygın olarak yapılmaktadır.",
+            "depo": "27",
+            "img": "https://images.pexels.com/photos/2775838/pexels-photo-2775838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "money": 17,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Mango",
+            "situation": "Meyve",
+            "description": "Mango, kapalı tohumlulardan Anacardiaceae familyasının Mangifera cinsine ait tropik, astropik ağaçlarının verdiği etli meyveye denir. Bu meyve, anavatanı olan Hindistan'dan dünyaya yayılmıştır.",
+            "depo": 18,
+            "img": "https://images.pexels.com/photos/918643/pexels-photo-918643.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 45,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Nutella",
+            "situation": "Kahvaltılık",
+            "description": "Nutella, çikolata ve fındık karışımından oluşan çikolatalı krema markasıdır ve İtalyan bir çikolata firması Ferrero Spa tarafından üretilmektedir. 100 gramında yaklaşık 540 kalori bulunur. Geçmişi, 2. Dünya Savaşı nedeni ile yaşanan kakao sıkıntısına dayanır. Nutella'nın ana bileşenleri şeker ve palm yağıdır.",
+            "depo": 225,
+            "img": "https://images.pexels.com/photos/7523703/pexels-photo-7523703.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 90,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Domates",
+            "situation": "Sebze",
+            "description": "Domates, patlıcangiller ailesinden, anavatanı Güney ve Orta Amerika olan, meyvesi yenebilen otsu bitki türü. Domatesin eş anlamlısı kızanak sözcüğüdür.",
+            "depo": 75,
+            "img": "https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 10,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Elma",
+            "situation":"Meyve",
+            "description":"Elma, gülgiller familyasından kültürü yapılan bir meyve türü. Eski Türkçede alma diye bilinen adının, meyvenin rengi olan al'dan geldiği bilinmektedir. Elmanın ilk olarak Kuzey Anadolu'da, Güney Kafkaslar, Rusya'nın güneybatısında kalan bölgeler ve Orta Asya dolaylarında ortaya çıktığı sanılmaktadır." ,
+            "depo": 45,
+            "img": "https://cdn.pixabay.com/photo/2016/01/05/13/58/apple-1122537_960_720.jpg",
+            "money": 10,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Portakal",
+            "situation": "Meyve",
+            "description":"Portakal, Citrus cinsi bir ağaç olan Citrus sinensis'i ve onun meyvesini tanımlar. " ,
+            "depo": 32,
+            "img":"https://images.pexels.com/photos/11515493/pexels-photo-11515493.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 22,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Soğan",
+            "situation": "Sebze",
+            "description": "Soğan, aynı zamanda kuru soğan veya soğan olarak da bilinen Allium cinsinin en yaygın olarak yetiştirilen bir sebze türüdür. Arpacık soğanı soğan'nın bir botanik çeşididir. 2010 yılına kadar arpacık soğanı ayrı bir tür olarak sınıflandırıldı.",
+            "depo": 37,
+            "img": "https://images.pexels.com/photos/4197445/pexels-photo-4197445.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 9,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Süt",
+            "situation": "Süt Ürünleri",
+            "description": "Süt, dişi memelilerin yavrularını beslemek için memelerinden gelen, besin değeri yüksek olan beyaz bir sıvıdır. Ayrıca bazı bitkilerin türlü organlarında bulunan beyaz renkte öz suya ve erkek balığın tohumuna da süt denir.",
+            "depo":55 ,
+            "img": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 20,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Zeytin",
+            "situation": "Kahvaltılık",
+            "description":"Avrupa zeytini anlamında Olea europaea botanik adlı zeytin, zeytingiller Oleaceae familyasından meyvesi yenen ve geleneksel olarak Akdeniz iklimine özgü bir ağaç türüdür.",
+            "depo":23 ,
+            "img": "https://images.pexels.com/photos/4109910/pexels-photo-4109910.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+            "money": 85,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Patates",
+            "situation": "Sebze",
+            "description": "Patates, patlıcangiller familyasından yumruları yenen otsu bitki türüdür. Patates sözcüğü Amerika yerlilerinin dilinden İspanyolca aracılığıyla çeşitli Avrupa dillerine geçmiş, Türkçeye İtalyanca ve Yunancadan girmiştir. Türkçe eş anlamlısı olarak çisil sözcüğü bulunmaktadır.",
+            "depo": 15,
+            "img": "https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 8,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Muz",
+            "situation": "Meyve",
+            "description": "Muz, Güneydoğu Asya'nın tropikal bölgelerinde doğal olarak yetişen bir ağaçsı bitkiye ve bu bitkinin yeşil kabuklu uzun meyvelerine denir. Türkiye'de daha çok Bozyazı ile Anamur arasında yetiştirilmektedir. Dünya üzerinde meyvesi belki de en fazla tüketilen bitkilerden biridir.",
+            "depo": 41,
+            "img": "https://images.pexels.com/photos/1093038/pexels-photo-1093038.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 20,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Maydanoz",
+            "situation": "Sebze",
+            "description": "Maydanoz, yeşil renkli, damarlı bir bitki türüdür. Yaprakları baharat olarak kullanılmaktadır. Ağustos-Eylül ayları arasında, beyaz renkli çiçekler açan, kazık köklü, 30–100 cm boylarında, iki yıllık otsu bir bitki. İlk yıl bir yaprak rozeti, ikinci yıl ise bir gövde meydana getirir.",
+            "depo":7 ,
+            "img":"https://images.pexels.com/photos/1275204/pexels-photo-1275204.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+            "money": 4,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Patlıcan",
+            "situation": "Sebze",
+            "description": "Patlıcan, bilimsel adıyla Solanum melongena, Solanaceae familyasına ait olup, ılık iklimlerde tek yıllık, tropik iklimlerde ise küçük bir ağaç şeklinde büyüyen çok yıllık bir kültür bitkisidir. Patlıcanın ilk yetiştiriciliği MÖ 5. yüzyılda Hindistan'da gerçekleştirilmiştir.",
+            "depo": 29,
+            "img":"https://images.pexels.com/photos/5386697/pexels-photo-5386697.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+            "money":14 ,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Limon",
+            "situation": "Sebze",
+            "description": "Limon, yıl boyunca büyümeyi sürdüren, küçük bir ağaç türü ve bu ağacın meyvesidir. Halk dilinde suluzırtlak, cıcık ve zıvrak da denilmektedir. Limon Turunçgil limon öncelikle Kuzeydoğu Hindistan, Güney Asya' ya özgü çiçekli bitki Rutaceae ailesinden küçük yaprak dökmeyen bir ağaç türüdür.",
+            "depo": 43,
+            "img": "https://images.pexels.com/photos/12581404/pexels-photo-12581404.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "money": 21,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Sosis",
+            "situation": "Sucuk Pastırma",
+            "description": "Sosis, içinde hayvan eti bulunan, genellikle baharatla yoğurularak, hayvan bağırsağı içinde yarı ya da tam pişirilerek hazırlanan gıda maddesidir. Tipik olarak, bir sosis geleneksel olarak bağırsaktan, ancak bazen de sentetik malzemelerden yapılmış bir kasada oluşturulur",
+            "depo": 50,
+            "img": "https://images.pexels.com/photos/357576/pexels-photo-357576.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Sucuk",
+            "situation": "Sucuk Pastırma",
+            "description": "Sucuk, başlıca Balkanlar, Orta Doğu ve Orta Asya'da tüketilen, şişirilip kurutulmuş bağırsak içine baharatlı et kıyması doldurularak yapılan bir tür fermante et ürünüdür. Uzun raf ömrüne sahip bir tüketim malzemesidir. Ekonomik olarak satın alınmasını kolaylaştırmak üzere küçükbaş hayvan eti de sıkça karıştırılır",
+            "depo": 11,
+            "img": "https://media.idepophoto.com/photos/cold-cuts-picture-id528296204?b=1&k=20&m=528296204&s=612x612&w=0&h=pfbfAYnrr9W763nWqghUSiGWHn93S-57zjNi5VHe80I=",
+            "money": 150,
+            "organic":[
+                "Yöresel",
+                "Gurme",
+                "Coğrafi"
+            ]
+        }
+    ]
+}
